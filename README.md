@@ -5,6 +5,8 @@ I have been tasked with creating a neural network that HR can use to predict whe
 
 Part 1: Preprocessing
 
+I coded out a section to show what work I was doing that continued to be unsucessful. Instaed I reached out to Xpert learner for help and the code that worked is from the help. This is in the OneHotEncoder for the 'Education' column. 
+
 Part 2: Create, Compile, and Train the Model
 
 Part 3: Summary
